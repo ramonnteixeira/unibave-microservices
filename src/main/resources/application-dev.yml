@@ -1,0 +1,9 @@
+## YAML Template.
+---
+
+app:
+    config:
+        string1: "dev"
+        long1: 1110001110
+        boolean1: false
+        double1: 25.12
