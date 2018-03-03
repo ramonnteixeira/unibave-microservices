@@ -4,6 +4,8 @@
 app:
     config:
         string1: "teste"
-        long1: 290002299
+        long1: 2900022991
         boolean1: true
         double1: 10.35
+
+management.security.enabled: false
